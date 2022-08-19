@@ -1,5 +1,5 @@
 payment option  details- Coffehut_Wallet
-Credi card
+Credit card
 Debit card
 Net Banking
 Cash 
