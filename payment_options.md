@@ -1,1 +1,1 @@
-payment option - Coffehut_Wallet
+payment option  details- Coffehut_Wallet
